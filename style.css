@@ -181,9 +181,7 @@ nav ul li a {
 /*End Features Section*/
 
 /*Start courses Section*/
-#courses {
-    padding: 100px 0;
-}
+
 .course-row {
     display: flex;
     align-items: center;
@@ -399,8 +397,5 @@ form input {
     .link-title {
         flex-basis: 50%;
         margin-bottom: 30px;
-    }
-    #courses {
-        padding: 0px 0px;
     }
 }
